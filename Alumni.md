@@ -8,7 +8,7 @@
 | Geetha Kamath Koteshwar | 2018 | Amazon | Software Development Engineer | https://www.linkedin.com/in/geetha-kamath-k/ |
 | Srikanth Holavanahalli | 2012 | Microsoft | Software Engineer 2 | https://www.linkedin.com/in/srikanthsh/ |
 | Prapthi Hegde | 2012 | Microsoft | Software Engineer | https://www.linkedin.com/in/prapthihegde/ |
-
+| Aditya Trivedi | 2021 | Netcore Cloud | Software Engineer | https://www.linkedin.com/in/aditya-trivedi-10/
 
 
 
