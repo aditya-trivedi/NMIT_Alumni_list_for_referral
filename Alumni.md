@@ -1,4 +1,4 @@
-## Alumunis of Nitte Meenakshi Intitute of Technology
+## Alumni of Nitte Meenakshi Intitute of Technology
 
 ---
 
